@@ -46,7 +46,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'kerb-sts=kerb_sts.__main__:main'
+            'medi-sent=medi-sent.__main__:main'
         ]
     }
 )
